@@ -1,4 +1,4 @@
-eurka:
+eureka:
   instance:
     prefer-ip-address: true
   client:
